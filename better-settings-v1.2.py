@@ -10,7 +10,7 @@ def exp():
 def james():
     
     penius = tk.Tk()
-    penius.title('james iles moment')
+    penius.title('silly moment')
     penius.resizable(False, False)
     penius.geometry("720x72+600+180")
     penius.config(bg="#121212")
