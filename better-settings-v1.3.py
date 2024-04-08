@@ -7,7 +7,7 @@ import ctypes
 def exp():
     os.startfile("C:\\Windows\\explorer.exe")
 
-def james():
+def silly():
     
     penius = tk.Tk()
     penius.title('silly moment')
@@ -83,7 +83,7 @@ superexit=tk.Button(
         bg="#BB86FC",
         fg="#FFFFFF",
         border=0,
-        command=james
+        command=silly
     )
 superexit.place(x=65,y=235)
 
